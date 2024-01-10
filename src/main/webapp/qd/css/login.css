@@ -1,0 +1,71 @@
+body{
+}
+#logo-box{
+    padding-left: 10%;
+    width: 40%;
+    float:left;
+}
+#nav-login-box{
+    padding-right: 10%;
+    width: 40%;
+    float:right;
+}
+
+#nav-nologin-box{
+    padding-right: 10%;
+    width: 40%;
+    float:right;
+}
+#nav-nologin-box div{
+    display: inline-block;
+}
+#nav-login-box div{
+    display: inline-block;
+}
+
+#login-box{
+    padding-left: 10%;
+    width: 40%;
+    float:left;
+}
+
+#signup-box{
+    padding-right: 10%;
+    width: 40%;
+    float:left;
+}
+
+#login-box .input-box input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 85%
+}
+
+#login-box button{
+    margin-top: 10px;
+    width: 85%;
+    color: white;
+    background: #990033;
+}
+
+#signup-box .input-box input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 85%
+}
+
+#signup-box button{
+    margin-top: 10px;
+    width: 85%;
+    color: white;
+    background: #990033;
+}
+/*#login-box h1{*/
+    /*padding-top: 60px;*/
+    /*color: #ffffff;*/
+/*}*/
+
+/*#login-box .input-box{*/
+    /*margin-top: 30px;*/
+/*}*/
+

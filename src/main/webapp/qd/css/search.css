@@ -1,0 +1,120 @@
+body{
+}
+#logo-box{
+    padding-left: 10%;
+    width: 40%;
+    float:left;
+}
+#nav-login-box{
+    padding-right: 10%;
+    width: 40%;
+    float:right;
+}
+
+#nav-nologin-box{
+    padding-right: 10%;
+    width: 40%;
+    float:right;
+}
+#nav-nologin-box div{
+    display: inline-block;
+}
+#nav-login-box div{
+    display: inline-block;
+}
+
+#form-box{
+    padding-left: 10%;
+    width: 80%;
+}
+
+#result-box{
+    padding-left: 10%;
+    width: 80%;
+}
+
+#form-left-box{
+    margin-top: 20px;
+    width:65%;
+    float:left;
+}
+
+#form-right-box{
+    margin-top: 20px;
+    width:35%;
+    float:left;
+}
+
+#form-left-line1 input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 15px;
+    width: 85%
+}
+
+#form-left-line1 button{
+    margin-top: 10px;
+    width: 8%;
+    background: #990033;
+    color: white;
+}
+
+#form-left-line2 input{
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 46%
+}
+
+#form-right-se1 {
+    width:50%;
+    float:left
+}
+
+#form-right-se2 {
+    width:50%;
+    float:left
+}
+
+#form-right-box button{
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 90%;
+    background: #2828FF;
+    color: white;
+}
+
+.result-line{
+    padding-top: 10px;
+    height:260px;
+}
+.result-left{
+    width:25%;
+    float:left;
+}
+
+.result-left img{
+	width:200px;
+	height:200px;
+}
+
+.result-right{
+    width:75%;
+    float:left;
+}
+
+.result-right-line1{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.result-right-line2{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.result-right-line3{
+    margin-top: 20px;
+    font-size: 15px;
+}
